@@ -35,7 +35,7 @@
     "jest": "^23.3.0",
     "jest-junit": "^5.1.0",
     "standard": "^8.5.0",
-    "webpack": "^1.13.3"
+    "webpack": "^5.94.0"
   },
   "standard": {
     "globals": [
